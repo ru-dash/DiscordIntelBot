@@ -1,6 +1,6 @@
 # IntelBot & CI Bot
 
-Two Discord bots, written in Python with [discord.py](https://discordpy.readthedocs.io/) in 2023–2024, for counter-intelligence work in EVE Online alliance Discords: finding out who is leaking channels to hostile relays, and making day-to-day member management easier.
+Two Discord bots, written in Python with [discord.py](https://discordpy.readthedocs.io/) in 2023–2024, for counter-intelligence work in EVE Online alliance Discords: finding out who is leaking channels to other groups through relays, and making day-to-day member management easier.
 
 | Script | What it is |
 | --- | --- |
